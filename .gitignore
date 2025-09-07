@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/httpRequests/
+.idea/shelf/
+.idea/caches/
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Local environment config
+gradle-app.setting
+
+# Java / Kotlin
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Others
+*.swp
+*.tmp
